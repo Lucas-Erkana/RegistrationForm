@@ -4,8 +4,24 @@ body{
     margin:0;
     background-color: #1b1b32;
     color: #f5f6f7;
+    font-family: Tahoma;
+    font-size: 16px;
 }
 label{
     display: block;
     margin: 0.5rem 0;
+}
+h1, p{text-align: center;
+    margin: 1em auto;
+}
+form{
+    margin: 0 auto;
+    max-width: 500px;
+    min-width: 300px;
+    width: 60vw;
+}
+fieldset{
+    border: none;
+    padding: 2rem 0;
+    border-bottom:3px solid #3b3b4f
 }
