@@ -46,8 +46,9 @@
   </tr>
 </table>
 **Registration Form** is a simple website that use HTML forms to collect information from people who visit my webpags. 
-
 <br>
+<br>
+
 **Here are some features of the page:**
 <ul>
 <li>Add First name and validate</li>
