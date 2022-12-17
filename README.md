@@ -30,23 +30,23 @@
 <table style="border: 2px solid black;">
   <tr>
     <th style="border: 1px solid black;">Desktop Version List</th>
-    <th>Mobile Version List</th>
-    <th>Mobile Version Menu</th>
+    <th>Top part of Registration form</th>
+    <th>Bottom part of registration form</th>
   </tr>
   <tr style="border: 2px solid black;">
-  <td style="border: 1px solid black;"><img src="/images/DesktopVersionLIST.jpg" alt="Desktop Version" width="340"  height="270" /></td>
-  <td><img src="/images/MobileVersionLIST.jpg" alt="Mobile Version" width="200"  height="270" /></td>
-    <td><img src="/images/MobileVersionMenu.jpg" alt="Mobile Version Menu" width="200"  height="270" /></td>
+  <td style="border: 1px solid black;"><img src="/images/Toppart.jpg" alt="Top part of Registration form" width="200"  height="270" /></td>
+  <td><img src="/images/Bottompart.jpg" alt="Bottom part of Registration form" width="200"  height="270" /></td>
+</td>
   </tr>
     <tr>
     <th style="border: 1px solid black;">Add Desktop Version</th>
-    <th>Add Mobile Version</th>
-    <th>Contact Mobile Version</th>
+    <th>Filled Top Part</th>
+    <th>Filled Bottom part</th>
   </tr>
     <tr style="border: 2px solid black;">
   <td style="border: 1px solid black;"><img src="/images/DesktopVersionADD.jpg" alt="Desktop Version" width="340"  height="270" /></td>
-  <td><img src="/images/MobileVersionADD.jpg" alt="Mobile Version" width="200"  height="270" /></td>
-      <td><img src="/images/MobileVersionCONTACT.jpg" alt="Mobile Version Menu" width="200"  height="270" /></td>
+  <td><img src="/images/topPartFilled.jpg" alt="Filled Registration Form" width="200"  height="270" /></td>
+      <td><img src="/images/bottomPartFilled.jpg" alt="Filled Registration Form" width="200"  height="270" /></td>
   </tr>
 </table>
 **Registration Form** is a simple website that use HTML forms to collect information from people who visit my webpags. 
