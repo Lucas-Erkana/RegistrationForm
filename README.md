@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="/images/fcc.png" alt="logo" width="140"  height="auto" />
+  <img src="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Freecode Camp</b></h3>
