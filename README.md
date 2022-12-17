@@ -51,6 +51,7 @@
 </table>
 **Registration Form** is a simple website that use HTML forms to collect information from people who visit my webpags. 
 
+
 **Here are some features of the page:**
 <ul>
 <li>Add First name and validate</li>
@@ -90,7 +91,7 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/Awesome_Book.git
+- On the terminal run this command git clone https://github.com/Lucash2022/RegistrationForm.git
 
 - Go to the repository folder using command prompt cd Awesome_Book.
 
