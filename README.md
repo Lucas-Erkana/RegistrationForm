@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Book<a name="about-project"></a>
+# 📖 Registration Form<a name="about-project"></a>
 <table style="border: 2px solid black;">
   <tr>
     <th style="border: 1px solid black;">Desktop Version List</th>
@@ -49,13 +49,25 @@
       <td><img src="/images/MobileVersionCONTACT.jpg" alt="Mobile Version Menu" width="200"  height="270" /></td>
   </tr>
 </table>
-**Awesome books** is a simple website that displays a list of books and allows you to add and remove books from that list. 
+**Registration Form** is a simple website that use HTML forms to collect information from people who visit my webpags. 
 
 Here are some features of the page:
 
-Add a book to your collection.
-Remove a book from your collection.
-Store your data history in the browser's memory.
+Add First name and validate
+
+Add Last name and validate
+
+Add email and validate
+
+Create password
+
+Input age
+
+Upload photo
+
+Select how you heard about us
+
+Provide bio
 
 
 
