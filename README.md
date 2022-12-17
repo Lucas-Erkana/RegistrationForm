@@ -51,24 +51,17 @@
 </table>
 **Registration Form** is a simple website that use HTML forms to collect information from people who visit my webpags. 
 
-Here are some features of the page:
-
-Add First name and validate
-
-Add Last name and validate
-
-Add email and validate
-
-Create password
-
-Input age
-
-Upload photo
-
-Select how you heard about us
-
-Provide bio
-
+**Here are some features of the page:**
+<ul>
+<li>Add First name and validate</li>
+<li>Add Last name and validate</li>
+<li>Add email and validate</li>
+<li>Create password</li>
+<li>Input age</li>
+<li>Upload photo</li>
+<li>Select how you heard about us</li>
+<li>Provide bio</li>
+</ul>
 
 
 
