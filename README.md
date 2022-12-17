@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <img src="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://img.stackshare.io/stack/12741/default_bcc87e47eb053f5947fa6dbe45beba33a3d1dc56.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Freecode Camp</b></h3>
+  <h3><b>freeCodeCamp</b></h3>
 
 </div>
 
