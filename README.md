@@ -29,7 +29,6 @@
 # 📖 Registration Form<a name="about-project"></a>
 <table style="border: 2px solid black;">
   <tr>
-    <th style="border: 1px solid black;">Desktop Version List</th>
     <th>Top part of Registration form</th>
     <th>Bottom part of registration form</th>
   </tr>
@@ -38,7 +37,6 @@
     <td><img src="/images/Bottompart.jpg" alt="Bottom part of Registration form" width="200"  height="270" /></td>
   </tr>
   <tr>
-    <th style="border: 1px solid black;">Add Desktop Version</th>
     <th>Filled Top Part</th>
     <th>Filled Bottom part</th>
   </tr>
